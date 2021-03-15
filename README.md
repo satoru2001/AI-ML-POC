@@ -6,5 +6,6 @@ Python scripts for Proof of concepts with Deep Learning Libraries
 - face_recognition
 - Numpy
 - OpenCV
-### Results
-![Uploading image.png…]()
+### Output
+![image](https://user-images.githubusercontent.com/56085259/111195544-5f207d80-85e2-11eb-9942-395db23d60e0.png)
+
